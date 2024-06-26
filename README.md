@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @CarrieMCorcoran
-- 👀 I’m interested in becoming a better coder
-- 🌱 I’m currently learning Software Engineering and Programming Languages at SUNY Oswego
-- 📫 How to reach me: ccorcor3@oswego.edu
-
-<!---
-CarrieMCorcoran/CarrieMCorcoran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hello, I’m Carrie Corcoran.  I'm a recent graduate from the State University of New York at Oswego.  I graduated Summa Cum Laude with a major in Computer Science and a minor in Cognitive Science.
+- How to reach me: ccorcor3@oswego.edu
+-Some of my work:
+--Portfolio pages:
+  --Artificial Intelligence 2- contains Research Project using Minimax: http://cs.oswego.edu/~ccorcor3/csc466/
+  --Artificial Intelligence 1:http://cs.oswego.edu/~ccorcor3/csc416/
+  --Programming Languages: http://cs.oswego.edu/~ccorcor3/csc344/
+--GitHub repos:
+  --Data Structures and Algorithms: https://github.com/CarrieMCorcoran/DataStructuresAndAlgorithms
