@@ -1,5 +1,5 @@
 - Hello, I’m Carrie Corcoran.  I'm a recent graduate from the State University of New York at Oswego.  I graduated Summa Cum Laude with a major in Computer Science and a minor in Cognitive Science.
-- How to reach me: ccorcor3@oswego.edu
+- How to reach me: carriemcorcoran@gmail.com
 - Some of my work:
 - Portfolio pages:
 - Artificial Intelligence 2- contains Research Project using Minimax: http://cs.oswego.edu/~ccorcor3/csc466/
